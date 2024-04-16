@@ -1,0 +1,4890 @@
+[
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "TERMINAL IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Vessel departure from first POL (Vessel name : TIAN FU HE)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel arrival at final POD (Vessel name : TIAN FU HE)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load (Vessel name : MSC ORION)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge (Vessel name : MSC ORION)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "CFS OUT",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "CFS IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'YM PLUM 175W' at Port of Loading YM PLUM 175W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'YM PLUM 175W' Departure from Port of Loading YM PLUM 175W",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'YM PLUM 175W' Arrival at Port of Discharging YM PLUM 175W",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'YM PLUM 175W' at Port of Discharging YM PLUM 175W",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Empty Container Door Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Gate In to Outbound CY",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Outbound Rail Loading",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Outbound Rail Departure",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Outbound Rail Arrival",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Outbound Rail Unloading",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Gate Out from Outbound CY",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'TUCAPEL 008E' at Port of Loading TUCAPEL 008E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'TUCAPEL 008E' Departure from Port of Loading TUCAPEL 008E",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'TUCAPEL 008E' Arrival at Port of Discharging TUCAPEL 008E",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'TUCAPEL 008E' at Port of Discharging TUCAPEL 008E",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on CAP SAN ARTEMISSIO / 240S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on CAP SAN ARTEMISSIO / 240S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "TERMINAL IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "CFS OUT",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "CFS IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "CFS OUT",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "CFS IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "TERMINAL OUT",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on EDITH MAERSK / 241E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on LEONIDIO / 248W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on NORFOLK / 226E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on NORFOLK / 226E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MUMBAI MAERSK / 226W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MAERSK EVORA / 228N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MUMBAI MAERSK / 226W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MAERSK EVORA / 228N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on CMA CGM DON PASCUALE / 242N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on PL GERMANY / 246N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on CAP SAN SOUNIO / 239W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on CIELO DI RABAT / 243W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on CAP SAN SOUNIO / 239W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on CIELO DI RABAT / 243W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on GERNER MAERSK / 226N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on GERNER MAERSK / 226N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK STEPNICA / 242S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK STEPNICA / 242S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK HORSBURGH / 242E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on SKAGEN MAERSK / 248S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK HORSBURGH / 242E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on SKAGEN MAERSK / 248S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "GATE OUT",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "CFS OUT",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "CFS IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC LIVORNO / 224N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on SAN CLEMENTE / 244E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MAERSK GUATEMALA / 247E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on SAN CLEMENTE / 244E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MAERSK GUATEMALA / 247E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on NYK FUSHIMI / 115N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MILAN MAERSK / 242E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MILAN MAERSK / 242E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on SEALAND ILLINOIS / 226E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on VOLGA MAERSK / 241N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on SEALAND ILLINOIS / 226E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on VOLGA MAERSK / 241N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MAERSK MONTANA / 246W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Load on BG IRELAND / 247W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MAERSK MONTANA / 246W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Load on BG IRELAND / 247W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "GATE OUT",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "CFS IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on NORTHERN JASPER / 027E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Loaded USJAX",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Unloaded PRSJU",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded USJAX",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Unloaded PRSJU",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load (Vessel name : COSCO INDONESIA)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge (Vessel name : COSCO INDONESIA)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Vessel Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Full Load on rail for export",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Train arrival for export",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Full Load on rail for export",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Train arrival for export",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Export Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Rail Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Export Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Export Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Rail Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Export Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "CFS OUT",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "CFS IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "TOLL PLAZA CROSSED",
+    "internalStatus": "In-transit"
+  },
+  {
+    "externalStatus": "CFS OUT",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "CFS IN",
+    "internalStatus": "Inbound Terminal"
+  },
+  {
+    "externalStatus": "PORT OUT",
+    "internalStatus": "Port Out"
+  },
+  {
+    "externalStatus": "PORT IN",
+    "internalStatus": "Port In"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load (Vessel name : MAERSK BULAN)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge (Vessel name : MAERSK BULAN)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load (Vessel name : MAERSK NIJMEGEN)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge (Vessel name : MAERSK NIJMEGEN)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load (Vessel name : ELBWATER)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge (Vessel name : ELBWATER)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty to shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Loaded on board (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Vessel Departure (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Vessel Arrival (Vessel name : VAYENGA MAERSK)",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "DEPARTCU",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MAERSK SEMBAWANG / 237E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC SVEVA / 248E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Board",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Expected Arrival Update",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Loaded on Train",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Rail Arrival in-Transit",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival at Dest. Ramp",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Expected Arrival Place of Delivery",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Empty Container Release to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate In to Outbound Terminal",
+    "internalStatus": "Outbound Terminal"
+  },
+  {
+    "externalStatus": "Loaded on 'MARINA ONE 001S' at Port of Loading MARINA ONE 001S",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Departure from Port of Loading MARINA ONE 001S",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "'MARINA ONE 001S' Arrival at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Unloaded from 'MARINA ONE 001S' at Port of Discharging MARINA ONE 001S",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty Container Returned from Customer",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MOGENS MAERSK / 246W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MSC ALEXANDRA / 248W",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on SAN CLEMENTE / 244E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Load on MAERSK GUATEMALA / 247E",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Estimated Time of Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Rail Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Export Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Estimated Time of Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Rail Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Export Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Estimated Time of Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Rail Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Export Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Estimated Time of Arrival",
+    "internalStatus": "Arrival"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Rail Departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Export Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Gate out, Empty",
+    "internalStatus": "Empty Return"
+  },
+  {
+    "externalStatus": "Gate in",
+    "internalStatus": "Gate In"
+  },
+  {
+    "externalStatus": "Load on MSC ORION / 227N",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Discharge",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "On rail",
+    "internalStatus": "On Rail"
+  },
+  {
+    "externalStatus": "Off rail",
+    "internalStatus": "Off Rail"
+  },
+  {
+    "externalStatus": "Gate out",
+    "internalStatus": "Gate Out"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at T/S POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Loaded at First POL",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Expected time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Actual time of departure",
+    "internalStatus": "Departure"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  },
+  {
+    "externalStatus": "Import Unloaded from Rail",
+    "internalStatus": "Unloaded on Vessel"
+  },
+  {
+    "externalStatus": "Import Loaded on Rail",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Full Transshipment Loaded",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Export Loaded on Vessel",
+    "internalStatus": "Loaded on Vessel"
+  },
+  {
+    "externalStatus": "Empty to Shipper",
+    "internalStatus": "Empty Container Released"
+  }
+]
