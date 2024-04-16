@@ -52,7 +52,7 @@ print("Test Accuracy:", accuracy)
 
 
 class ExternalStatus(BaseModel):
-    external_status: str
+    external_status: str 
 
 class PredictionResult(BaseModel):
     internal_status: str
@@ -61,6 +61,7 @@ app = FastAPI()
 
 @app.post("/predict/", response_model=PredictionResult)
 async def predict_internal_status(external_status: ExternalStatus):
+
     input_text = [external_status.external_status]
     input_sequences = tokenizer.texts_to_sequences(input_text)
     padded_sequences = pad_sequence(input_sequences, maxlen=max_sequence_length, padding='post', truncating='post')
